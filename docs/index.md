@@ -14,8 +14,6 @@ Accounting Major
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
-jhtfjcs
-
 
 <!-- ### Footer
 
