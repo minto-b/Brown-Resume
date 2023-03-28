@@ -3,7 +3,14 @@ layout: resume
 title: Minto Brown's Resume
 ---
 # Minto Brown
-Accounting Major
+Accounting major, computer science minor
+
+<div id="webaddress">
+<a href="datascience@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+</div>
+
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
