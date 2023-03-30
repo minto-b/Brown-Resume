@@ -3,7 +3,7 @@ layout: resume
 title: Minto Brown's Resume
 ---
 # Minto Brown
-Accounting major, computer science minor
+Accounting major
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
